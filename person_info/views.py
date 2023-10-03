@@ -4,7 +4,7 @@ from django.http import HttpResponse
 
 
 def index(r):
-    return HttpResponse('<h1>Hi rohit...!!</h1>')
+    return HttpResponse('<h1>Hi rohit chougale...!!</h1>')
 
 def show(r):
-    return HttpResponse('<h1>hi krishna</h1>')
+    return HttpResponse('<h1>hi krishna patil ...!</h1>')
