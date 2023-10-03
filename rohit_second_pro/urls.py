@@ -21,4 +21,5 @@ from person_info import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.index),
+    path('show/', views.show),
 ]
