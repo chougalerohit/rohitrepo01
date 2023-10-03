@@ -7,4 +7,4 @@ def index(r):
     return HttpResponse('<h1>Welcome to rohit second project,thanks for visit...!</h1>')
 
 def show(r):
-    return HttpResponse('<h1>Hi krishnat how r you,i think u r doing well right</h1>')
+    return HttpResponse('<h1>hi krish,thanks for visit...!</h1>')
