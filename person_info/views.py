@@ -5,3 +5,6 @@ from django.http import HttpResponse
 
 def index(r):
     return HttpResponse('<h1>Welcome to rohit second project</h1>')
+
+def show(r):
+    return HttpResponse('<h1>Hi krishnat</h1>')
